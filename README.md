@@ -1,2 +1,1 @@
-# jperlin.github.io
-personal website
+Personal website. Work in progress!
