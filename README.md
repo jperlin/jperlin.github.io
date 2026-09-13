@@ -1,1 +1,1 @@
-Personal website. Work in progress!
+Personal website.
